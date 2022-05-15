@@ -1,3 +1,1 @@
-My first readme 
-
-webterm is frustrating.
+My first readme
